@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom, #e6f2ff, #ffffff);
+}
+
+.navbar-custom {
+  background-color: #004d99 !important;
+}
+
+.btn-primary-custom {
+  background-color: #004d99;
+  border-color: #004d99;
+}
+
+.btn-danger-custom {
+  background-color: #ff0000;
+  border-color: #ff0000;
+}
+
+.card-custom {
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.hero-section {
+  /* Replace with your image URL */
+  background: url('https://i.imgur.com/1234567.png') no-repeat center center / cover;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #004d99;
+}
+
+
+.hero-title {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.stats-card {
+  text-align: center;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.form-custom {
+  background-color: #004d99;
+  color: white;
+  padding: 1rem;
+  border-radius: 10px;
+}body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom, #e6f2ff, #ffffff);
+}
+
+.navbar-custom {
+  background-color: #004d99 !important;
+}
+
+.btn-primary-custom {
+  background-color: #004d99;
+  border-color: #004d99;
+}
+
+.btn-danger-custom {
+  background-color: #ff0000;
+  border-color: #ff0000;
+}
+
+.card-custom {
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.hero-section {
+  background: url('https://i.imgur.com/1234567.png') no-repeat center center / cover; 
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #004d99;
+}
+
+.hero-title {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.stats-card {
+  text-align: center;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.form-custom {
+  background-color: #004d99;
+  color: white;
+  padding: 1rem;
+  border-radius: 10px;
+}
